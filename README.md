@@ -8,6 +8,7 @@ My name is Brendan O'Brien, I am a Junior at Grand Valley State University major
   - C
   - SQL
   - Linux
+  - Windows
 
 ### Projects
 
